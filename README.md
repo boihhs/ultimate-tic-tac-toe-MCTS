@@ -1,0 +1,1 @@
+Run ultimateictactoeguiclass and click left mouse button to make AI move (it goes first). Then you move. I coded this a few months ago but am adding this now to github as I am proud that it worked previously and I also need something to show people. MCTS is a beatifual algorim though
